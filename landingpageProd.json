@@ -1,14 +1,9 @@
-[
+{
+  "tiles": [
     {
-        "title": "Example Title 1",
-        "imageURL": "https://example.com/image1.jpg",
-        "subTitle": "Example Subtitle 1",
-        "clickURL": "https://example.com/1"
-    },
-    {
-        "title": "Example Title 2",
-        "imageURL": "https://example.com/image2.jpg",
-        "subTitle": "Example Subtitle 2",
-        "clickURL": "https://example.com/2"
+      "title": "How to use?",
+      "subTitle": "Check this video on how to use",
+      "videoID": "G8QIdLS5KFA"
     }
-]
+  ]
+}
