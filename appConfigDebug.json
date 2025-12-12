@@ -16,25 +16,25 @@
         },
         {
             "title": "Delete Drawings",
-            "subTitle": "Drag any emoji or drawing to the bin icon at the bottom to delete it.",
+            "subTitle": "Drag the pencil icon to the bin icon at the bottom to delete it.",
             "clickURL": null,
-            "bgGradientStart": "#C62828",
-            "bgGradientEnd": "#B71C1C",
+            "bgGradientStart": "#1A237E",
+            "bgGradientEnd": "#0D47A1",
             "iconName": "delete"
         },
         {
             "title": "Drawing Tools",
             "subTitle": "Choose from pen, eraser, shapes (circle, square, line), adjust brush size, and pick any color you want.",
-            "bgGradientStart": "#1B5E20",
-            "bgGradientEnd": "#004D40",
+           "bgGradientStart": "#1A237E",
+            "bgGradientEnd": "#0D47A1",
             "iconName": "build"
         },
         {
             "title": "Share Your Drawings",
             "subTitle": "Tap the share icon to capture and share your artwork with friends on any app.",
             "clickURL": null,
-            "bgGradientStart": "#4A148C",
-            "bgGradientEnd": "#311B92",
+            "bgGradientStart": "#1A237E",
+            "bgGradientEnd": "#0D47A1",
             "iconName": "share"
         },
         {
