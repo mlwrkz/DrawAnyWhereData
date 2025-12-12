@@ -1,0 +1,34 @@
+{
+    "forceUpdate": {
+        "enabled": false,
+        "minVersion": "1.0.0",
+        "message": "A new version is available with improvements and bug fixes.",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
+    },
+    "tiles": [
+        {
+            "title": "Getting Started",
+            "subTitle": "Tap the pencil icon anywhere on your screen to start drawing. Use the back button to exit the app.",
+            "clickURL": null,
+            "bgGradientStart": "#1A237E",
+            "bgGradientEnd": "#0D47A1",
+            "iconName": "edit"
+        },
+        {
+            "title": "Drawing Tools",
+            "subTitle": "Choose from pen, eraser, shapes (circle, square, line), adjust brush size, and pick any color you want.",
+            "clickURL": "https://google.com",
+            "bgGradientStart": "#1B5E20",
+            "bgGradientEnd": "#004D40",
+            "iconName": "build"
+        },
+        {
+            "title": "Share Your Drawings",
+            "subTitle": "Tap the share icon to capture and share your artwork with friends on any app.",
+            "clickURL": null,
+            "bgGradientStart": "#4A148C",
+            "bgGradientEnd": "#311B92",
+            "iconName": "share"
+        }
+    ]
+}
