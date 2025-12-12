@@ -1,8 +1,8 @@
 {
     "forceUpdate": {
-        "enabled": true,
-        "minRequiredVersion": "25.12.12",
-        "message": "A new version is available with improvements and bug fixes.",
+        "enabled": false,
+        "minRequiredVersion": "9999.12.31",
+        "message": "A new version is available with improvements and bug fixes. Please update to continue using the app.",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
     },
     "tiles": [
@@ -13,6 +13,14 @@
             "bgGradientStart": "#1A237E",
             "bgGradientEnd": "#0D47A1",
             "iconName": "edit"
+        },
+        {
+            "title": "Delete Drawings",
+            "subTitle": "Drag any emoji or drawing to the bin icon at the bottom to delete it.",
+            "clickURL": null,
+            "bgGradientStart": "#C62828",
+            "bgGradientEnd": "#B71C1C",
+            "iconName": "delete"
         },
         {
             "title": "Drawing Tools",
@@ -28,6 +36,14 @@
             "bgGradientStart": "#4A148C",
             "bgGradientEnd": "#311B92",
             "iconName": "share"
+        },
+        {
+            "title": "Video Tutorial",
+            "subTitle": "Watch our quick tutorial to learn all the features and tips.",
+            "clickURL": "https://www.youtube.com/watch?v=u4BmwHL8CiQ",
+            "bgGradientStart": "#E65100",
+            "bgGradientEnd": "#BF360C",
+            "iconName": "play"
         }
     ]
 }
