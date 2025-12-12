@@ -1,6 +1,6 @@
 {
-    "enabled": false,
-    "minRequiredVersion": "9999.12.31",
+    "enabled": 12,
+    "minRequiredVersion": "25.12.14",
     "message": "A new version is available with improvements and bug fixes. Please update to continue using the app.",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
 }
