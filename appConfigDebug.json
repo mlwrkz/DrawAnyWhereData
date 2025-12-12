@@ -17,7 +17,6 @@
         {
             "title": "Drawing Tools",
             "subTitle": "Choose from pen, eraser, shapes (circle, square, line), adjust brush size, and pick any color you want.",
-            "clickURL": "https://google.com",
             "bgGradientStart": "#1B5E20",
             "bgGradientEnd": "#004D40",
             "iconName": "build"
