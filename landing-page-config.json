@@ -1,9 +1,38 @@
 {
-  "tiles": [
-    {
-      "title": "⚡ Please Update DrawAnywhere!",
-      "subTitle": "Don't miss these exciting new features: 😊 Emoji support • ⭐ New shapes (stars, arrows, triangles) • 📸 Quick screenshot & share • 🎨 Gorgeous redesign • ⚡ Better performance!\n\nTAP HERE TO UPDATE THE APP NOW! 🔥👆",
-      "clickURL": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
-    }
-  ]
+    "title": "DrawAnyWhere",
+    "goPremium": {
+        "title": "Go Ad Free",
+        "subtitle": "Watch a short video to remove ads for 1 hour"
+    },
+    "tiles": [
+        {
+            "title": "Getting Started",
+            "subTitle": "Tap the pencil icon anywhere on your screen to start drawing. Use the back button to exit the app.",
+            "clickURL": null,
+            "iconName": "edit"
+        },
+        {
+            "title": "Delete Drawings",
+            "subTitle": "Drag the pencil icon to bin icon to remove it from any screen.",
+            "clickURL": null,
+            "iconName": "delete"
+        },
+        {
+            "title": "Drawing Tools",
+            "subTitle": "Choose from pen, eraser, shapes (circle, square, line), adjust brush size, and pick any color you want.",
+            "iconName": "build"
+        },
+        {
+            "title": "Share Your Drawings",
+            "subTitle": "Tap the share icon to capture and share your artwork with friends on any app.",
+            "clickURL": null,
+            "iconName": "share"
+        },
+        {
+            "title": "Video Tutorial",
+            "subTitle": "Click here to watch our quick tutorial to learn all the features and tips.",
+            "clickURL": "https://youtube.com/shorts/upc7ys2a2u0",
+            "iconName": "play"
+        }
+    ]
 }
