@@ -5,6 +5,6 @@
     "ad_choice_max_times": 2,
     "min_drawing_time_seconds": 45,
     "min_drawing_time_debug_seconds": 5,
-    "ad_cooldown_seconds": 300,
+    "interstitial_ad_cooldown_seconds": 300,
     "ad_free_hour_enabled": true
 }
