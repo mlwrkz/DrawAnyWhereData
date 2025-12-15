@@ -1,16 +1,10 @@
 {
     "ads_enabled": true,
     "show_ad_on_share": true,
-    "show_ad_on_close": true,
-    "ad_choice_max_times": 3,
-    "min_drawing_time_seconds": 30,
+    "show_ad_on_close": false,
+    "ad_choice_max_times": 2,
+    "min_drawing_time_seconds": 45,
     "min_drawing_time_debug_seconds": 5,
-    "comments": {
-        "ads_enabled": "Master switch - turns off ALL ads (interstitial, banners, choice dialogs) if false",
-        "show_ad_on_share": "Show ad when user shares drawing (set false for better viral growth)",
-        "show_ad_on_close": "Show ad when user closes drawing",
-        "ad_choice_max_times": "How many times to show choice dialog (set to 0 to skip dialog entirely)",
-        "min_drawing_time_seconds": "Minimum drawing time before showing ads (release builds)",
-        "min_drawing_time_debug_seconds": "Minimum drawing time for debug builds (easier testing)"
-    }
+    "ad_cooldown_seconds": 300,
+    "ad_free_hour_enabled": true
 }
