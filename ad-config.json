@@ -1,10 +1,10 @@
 {
     "ads_enabled": true,
     "show_ad_on_share": true,
-    "show_ad_on_close": false,
-    "ad_choice_max_times": 2,
-    "min_drawing_time_seconds": 45,
+    "show_ad_on_close": true,
+    "ad_choice_max_times": 5,
+    "min_drawing_time_seconds": 30,
     "min_drawing_time_debug_seconds": 5,
-    "interstitial_ad_cooldown_seconds": 300,
+    "interstitial_ad_cooldown_seconds": 180,
     "ad_free_hour_enabled": true
 }
