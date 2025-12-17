@@ -11,15 +11,15 @@
             {
                 "hours": 3,
                 "videos": 1,
-                "label": "3 Hour Ad-Free",
+                "label": "3 Hours Ad-Free",
                 "recommended": true
             },
             {
                 "hours": 6,
                 "videos": 2,
-                "label": "6 Hour Ad-Free",
+                "label": "6 Hours Ad-Free",
                 "recommended": false
-            },
+            }
         ]
     },
     "max_ad_free_hours": 72
