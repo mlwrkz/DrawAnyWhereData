@@ -1,10 +1,31 @@
 {
-    "ads_enabled": false,
-    "show_ad_on_share": true,
+    "show_banner_ads": true,
     "show_ad_on_close": true,
-    "ad_choice_max_times": 5,
-    "min_drawing_time_seconds": 30,
-    "min_drawing_time_debug_seconds": 5,
-    "interstitial_ad_cooldown_seconds": 180,
-    "ad_free_hour_enabled": true
+    "show_ad_on_share": true,
+    "min_drawing_time_seconds": 10,
+    "interstitial_ad_cooldown_seconds": 60,
+    "packages": {
+        "enabled": true,
+        "options": [
+            {
+                "hours": 1,
+                "videos": 1,
+                "label": "1 Hour Ad-Free",
+                "recommended": false
+            },
+            {
+                "hours": 3,
+                "videos": 3,
+                "label": "3 Hours Ad-Free",
+                "recommended": true
+            },
+            {
+                "hours": 6,
+                "videos": 6,
+                "label": "6 Hours Ad-Free",
+                "recommended": false
+            }
+        ]
+    },
+    "max_ad_free_hours": 72
 }
