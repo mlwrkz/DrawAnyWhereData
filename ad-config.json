@@ -1,5 +1,5 @@
 {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "show_ad_on_share": true,
     "show_ad_on_close": true,
     "ad_choice_max_times": 5,
