@@ -1,7 +1,7 @@
 {
     "title": "DrawAnyWhere",
     "goPremium": {
-        "title": "Go Ad Free",
+        "title": "Go Ad Free.",
         "subtitle": "Watch a short video to remove ads for 1 hour"
     },
     "tiles": [
@@ -35,7 +35,7 @@
             "iconName": "play"
         },
         {
-            "title": "Share Your Feedback",
+            "title": "Share Your Feedback.",
             "subTitle": "Help us improve! Share your thoughts and suggestions to make DrawAnyWhere even better.",
             "clickURL": "https://docs.google.com/forms/d/e/1FAIpQLSeyCcJf8cZApbeLem4cwwlUodFbF1ovHFO79809_2f_eP3q_Q/viewform?usp=publish-editor",
             "iconName": "feedback"
