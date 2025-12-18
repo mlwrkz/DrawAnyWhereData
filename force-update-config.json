@@ -1,6 +1,6 @@
 {
-    "enabled": true,
-    "minRequiredVersion": "25.12.18",
+    "enabled": false,
+    "minRequiredBuildNumber": 113,
     "message": "🎉 New Feature! Watch short videos to enjoy ad-free drawing. Update now to remove ads and enhance your experience!",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
 }
