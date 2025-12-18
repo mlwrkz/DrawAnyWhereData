@@ -1,5 +1,5 @@
 {
-    "enabled": false,
+    "enabled": true,
     "minRequiredVersion": "25.12.18",
     "minRequiredBuildNumber": 116,
     "message": "🎉 New Feature! Watch short videos to enjoy ad-free drawing. Update now to remove ads and enhance your experience!",
