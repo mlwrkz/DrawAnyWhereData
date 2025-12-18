@@ -1,5 +1,5 @@
 {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "show_banner_ads": true,
     "show_ad_on_close": true,
     "show_ad_on_share": true,
