@@ -16,15 +16,9 @@
             },
             {
                 "hours": 3,
-                "videos": 3,
+                "videos": 2,
                 "label": "3 Hours Ad-Free",
                 "recommended": true
-            },
-            {
-                "hours": 6,
-                "videos": 6,
-                "label": "6 Hours Ad-Free",
-                "recommended": false
             }
         ]
     },
