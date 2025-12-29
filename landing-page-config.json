@@ -1,16 +1,18 @@
 {
     "title": "DrawAnyWhere",
-    "goPremium": {
-        "title": "Go Ad Free.",
-        "subtitle": "Watch a short video to remove ads for 1 hour"
+    "packageSelection": {
+        "title": "Choose Your Ad-Free Time",
+        "subtitle": "Select a package to watch videos upfront"
+    },
+    "extendAdFree": {
+        "title": "Extend Ad-Free Time",
+        "subtitle": "Watch another video to add more time"
+    },
+    "premiumSubscriber": {
+        "title": "Premium Subscribed",
+        "subtitle": "Click here to check status"
     },
     "tiles": [
-        {
-            "title": "Share Your Feedback.",
-            "subTitle": "Help us improve! Share your thoughts and suggestions to make DrawAnyWhere even better.",
-            "clickURL": "https://docs.google.com/forms/d/e/1FAIpQLSeyCcJf8cZApbeLem4cwwlUodFbF1ovHFO79809_2f_eP3q_Q/viewform?usp=publish-editor",
-            "iconName": "feedback"
-        },
         {
             "title": "Getting Started",
             "subTitle": "Tap the pencil icon anywhere on your screen to start drawing. Use the back button to exit the app.",
