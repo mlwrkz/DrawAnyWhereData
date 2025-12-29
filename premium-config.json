@@ -1,0 +1,52 @@
+{
+    "_comment": "NOTE: Prices are fetched from Google Play Billing and automatically localized to user's currency (USD, EUR, GBP, etc.). Ensure product_id matches exactly with Google Play Console product IDs.",
+    "ad_config": {
+        "ads_enabled": true,
+        "show_banner_ads": true,
+        "show_ad_on_close": true,
+        "show_ad_on_share": true,
+        "min_drawing_time_seconds": 10,
+        "interstitial_ad_cooldown_seconds": 60,
+        "max_ad_free_hours": 72,
+        "packages": {
+            "enabled": true,
+            "options": [
+                {
+                    "hours": 1,
+                    "videos": 1,
+                    "label": "1 Hour Ad-Free",
+                    "recommended": false
+                },
+                {
+                    "hours": 3,
+                    "videos": 2,
+                    "label": "3 Hours Ad-Free",
+                    "recommended": true
+                }
+            ]
+        }
+    },
+    "iap": {
+        "enabled": true,
+        "manage_subscription_url": "https://play.google.com/store/account/subscriptions",
+        "subscriptions": [
+            {
+                "product_id": "premium_monthly",
+                "billing_period": "monthly",
+                "enabled": true,
+                "title": "Premium Monthly",
+                "subtitle": "Ad-free + exclusive features",
+                "badge": "⭐ RECOMMENDED",
+                "benefits": [
+                    "✓ No ads, ever"
+                ],
+                "cta_button": "Start Premium",
+                "legal_text": "Auto-renews monthly. Cancel anytime in Google Play."
+            }
+        ],
+        "premium_features": {
+            "enabled": false,
+            "features": []
+        }
+    }
+}
