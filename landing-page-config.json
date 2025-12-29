@@ -14,6 +14,12 @@
     },
     "tiles": [
         {
+            "title": "Update to Latest Version 🚀",
+            "subTitle": "Subscribe to remove ads forever! 🚫 Click here to update ✨",
+            "clickURL": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere",
+            "iconName": "system_update"
+        },
+        {
             "title": "Getting Started",
             "subTitle": "Tap the pencil icon anywhere on your screen to start drawing. Use the back button to exit the app.",
             "clickURL": null,
