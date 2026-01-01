@@ -15,13 +15,13 @@
                     "hours": 2,
                     "videos": 1,
                     "label": "2 Hour Ad-Free",
-                    "recommended": false
+                    "recommended": true
                 },
                 {
                     "hours": 3,
                     "videos": 2,
                     "label": "3 Hours Ad-Free",
-                    "recommended": true
+                    "recommended": false
                 }
             ]
         }
