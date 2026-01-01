@@ -3,22 +3,22 @@
     "show_banner_ads": true,
     "show_ad_on_close": true,
     "show_ad_on_share": true,
-    "min_drawing_time_seconds": 10,
-    "interstitial_ad_cooldown_seconds": 60,
+    "min_drawing_time_seconds": 60,
+    "interstitial_ad_cooldown_seconds": 120,
     "packages": {
         "enabled": true,
         "options": [
             {
-                "hours": 1,
+                "hours": 2,
                 "videos": 1,
-                "label": "1 Hour Ad-Free.",
-                "recommended": false
+                "label": "2 Hour Ad-Free.",
+                "recommended": true
             },
             {
                 "hours": 3,
                 "videos": 2,
                 "label": "3 Hours Ad-Free.",
-                "recommended": true
+                "recommended": false
             }
         ]
     },
