@@ -12,6 +12,10 @@
         "title": "Premium Subscribed",
         "subtitle": "Click here to check status"
     },
+    "proSubscriber": {
+        "title": "Pro Subscribed",
+        "subtitle": "Click here to check status"
+    },
     "tiles": [
         {
             "title": "Getting Started",
