@@ -18,6 +18,12 @@
     },
     "tiles": [
         {
+            "title": "New Pro Tools Ready! 🚀",
+            "subTitle": "Update now to get Fibonacci, Ruler, and Flash Ink! Tap here to get the latest version from Play Store ⭐✨",
+            "clickURL": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere",
+            "iconName": "star"
+        },
+        {
             "title": "Getting Started",
             "subTitle": "Tap the pencil icon anywhere on your screen to start drawing. Use the back button to exit the app.",
             "clickURL": null,
