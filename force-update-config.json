@@ -1,7 +1,7 @@
 {
-    "enabled": true,
+    "enabled": false,
     "minRequiredVersion": "26.01.05",
     "minRequiredBuildNumber": 131,
-    "message": "Update to Latest Version 🚀, Bug fixes and improvements! 🚫",
+    "message": "Update to Latest Version 🚀 for more advanced tools 🔨 !",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
 }
