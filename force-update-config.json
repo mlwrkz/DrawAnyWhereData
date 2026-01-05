@@ -1,7 +1,7 @@
 {
     "enabled": true,
-    "minRequiredVersion": "25.12.19",
-    "minRequiredBuildNumber": 123,
-    "message": "Update to Latest Version 🚀, Now new premium feature to remove ads forever! 🚫",
+    "minRequiredVersion": "26.01.05",
+    "minRequiredBuildNumber": 128,
+    "message": "Update to Latest Version 🚀, Bug fixes and improvements! 🚫",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
 }
