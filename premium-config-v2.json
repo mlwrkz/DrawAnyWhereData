@@ -67,7 +67,9 @@
                     "crosshair_tool",
                     "ruler_tool",
                     "fading_ink",
-                    "fibonacci_tool"
+                    "fibonacci_tool",
+                    "highlighter_tool",
+                    "blur_tool"
                 ],
                 "trial_duration_hours": 120
             }
