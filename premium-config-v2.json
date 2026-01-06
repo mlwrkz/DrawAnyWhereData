@@ -5,8 +5,8 @@
         "show_banner_ads": true,
         "show_ad_on_close": true,
         "show_ad_on_share": true,
-        "min_drawing_time_seconds": 10,
-        "interstitial_ad_cooldown_seconds": 60,
+        "min_drawing_time_seconds": 45,
+        "interstitial_ad_cooldown_seconds": 120,
         "max_ad_free_hours": 72,
         "packages": {
             "enabled": true,
