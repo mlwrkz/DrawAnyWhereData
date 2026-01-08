@@ -19,7 +19,7 @@
     "tiles": [
         {
             "title": "⚠️ MAJOR UPDATE!!",
-            "subtitle": "Please update to restore Pro features! Click here to update thea app",
+            "subTitle": "Please update to restore Pro features! Click here to update the app",
             "clickURL": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere",
             "iconName": "star"
         },
