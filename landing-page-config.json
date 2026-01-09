@@ -18,12 +18,6 @@
     },
     "tiles": [
         {
-            "title": "⚠️ MAJOR UPDATE!!",
-            "subTitle": "Please update to restore Pro features! Click here to update the app",
-            "clickURL": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere",
-            "iconName": "star"
-        },
-        {
             "title": "Getting Started",
             "subTitle": "Tap the pencil icon anywhere on your screen to start drawing. Use the back button to exit the app.",
             "clickURL": null,
