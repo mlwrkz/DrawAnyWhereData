@@ -1,1 +1,6 @@
-
+{
+    "enabled": false,
+    "minRequiredBuildNumber": 0,
+    "message": "A new version is available. Please update to continue using the app.",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
+}
