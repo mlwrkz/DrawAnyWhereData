@@ -8,6 +8,7 @@
         "show_app_open_ads": true,
         "min_drawing_time_seconds": 40,
         "interstitial_ad_cooldown_seconds": 60,
+        "app_open_ad_cool_off_hours": 24,
         "max_ad_free_hours": 24,
         "packages": {
             "enabled": true,
