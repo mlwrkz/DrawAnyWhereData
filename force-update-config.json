@@ -1,7 +1,7 @@
-{
-    "enabled": false,
-    "minRequiredVersion": "26.01.06",
-    "minRequiredBuildNumber": 148,
-    "message": "New Update! 🎨 We've added Neon, Glow, Dotted, and Dashed brushes to take your art to the next level. We also improved notifications and fixed bugs. Update now to enjoy the latest features!",
+"forceUpdate": {
+    "enabled": true,
+    "minRequiredVersion": "26.01.10",
+    "minRequiredBuildNumber": 149,
+    "message": "✨ New Critical Update Available! ✨\n\nWe've made DrawAnywhere smoother and fixed bugs. 🐛💥\n\nUpdate now to unlock the best experience! 🚀🎨",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
-}
+  }
