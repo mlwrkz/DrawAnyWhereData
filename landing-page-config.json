@@ -45,6 +45,12 @@
             "subTitle": "Click here to watch our quick tutorial to learn all the features and tips.",
             "clickURL": "https://youtube.com/shorts/upc7ys2a2u0",
             "iconName": "play"
+        },
+        {
+          "title": "Feedback & Support",
+          "subTitle": "Help us improve DrawAnyWhere! Tap here to share your feedback or report issues.",
+          "clickURL": "https://docs.google.com/forms/d/e/1FAIpQLSdOsQr6ZeZhPSSd6JWmENHKIHsMEYXC6szo3VNS15c8IRE89w/viewform",
+          "iconName": "feedback"
         }
     ]
 }
