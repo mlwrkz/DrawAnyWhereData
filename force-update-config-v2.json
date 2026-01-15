@@ -1,7 +1,7 @@
 {
-    "enabled": false,
-    "minRequiredVersion": "0.0.0",
-    "minRequiredBuildNumber": 0,
+    "enabled": true,
+    "minRequiredVersion": "26.01.15",
+    "minRequiredBuildNumber": 152,
     "message": "New Update! 🎨 We've added Neon, Glow, Dotted, and Dashed brushes to take your art to the next level. We also improved notifications and fixed bugs. Update now to enjoy the latest features!",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
 }
