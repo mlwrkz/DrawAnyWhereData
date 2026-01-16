@@ -1,7 +1,7 @@
 "forceUpdate": {
-    "enabled": true,
-    "minRequiredVersion": "26.01.10",
-    "minRequiredBuildNumber": 149,
-    "message": "✨ New Critical Update Available! ✨\n\nWe've made DrawAnywhere smoother and fixed bugs. 🐛💥\n\nUpdate now to unlock the best experience! 🚀🎨",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
-  }
+  "enabled": true,
+  "minRequiredVersion": "26.01.16",
+  "minRequiredBuildNumber": 154,
+  "message": "New Update! 🧹✨ We've added Eraser Size Control so you can fix mistakes with precision! 🎯 Plus, enjoy better performance and bug fixes. Update now and keep creating! 🚀",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlwrkz.drawanywhere"
+}
