@@ -3,7 +3,7 @@
     "ad_config": {
         "ads_enabled": true,
         "show_banner_ads": true,
-        "show_ad_on_close": true,
+        "show_ad_on_close": false,
         "show_ad_on_share": true,
         "min_drawing_time_seconds": 60,
         "interstitial_ad_cooldown_seconds": 300,
