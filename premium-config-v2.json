@@ -5,7 +5,7 @@
         "show_banner_ads": true,
         "show_ad_on_close": false,
         "show_ad_on_share": true,
-        "show_app_open_ads": true,
+        "show_app_open_ads": false,
         "min_drawing_time_seconds": 60,
         "interstitial_ad_cooldown_seconds": 300,
         "app_open_ad_cool_off_hours": 24,
