@@ -1,10 +1,10 @@
 {
     "_comment": "NOTE: Prices are fetched from Google Play Billing and automatically localized to user's currency (USD, EUR, GBP, etc.). Ensure product_id matches exactly with Google Play Console product IDs.",
     "ad_config": {
-        "ads_enabled": true,
+        "ads_enabled": false,
         "show_banner_ads": true,
         "show_ad_on_close": false,
-        "show_ad_on_share": true,
+        "show_ad_on_share": false,
         "min_drawing_time_seconds": 60,
         "interstitial_ad_cooldown_seconds": 300,
         "max_ad_free_hours": 72,
